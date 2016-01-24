@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape 
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid 
+        android:color="#E6FFFFFF" />
+
+    <corners
+        android:radius="25dp"/>
+
+</shape><!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/superToasts/src/main/res/drawable/background_kitkat_white.xml --><!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/superToasts/unspecified/res/drawable/background_kitkat_white.xml -->

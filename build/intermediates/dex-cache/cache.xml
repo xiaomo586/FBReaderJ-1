@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/libs/json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/json-simple-1.1.1-10ecbb0f8f8e26654c26ea73d1ea0efedea0e780.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/code/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c3f41eebdcc365ca047f686754f4c43653a5747">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/classes-d83f2cc20176ca9da9d0ea2016d59f3643bcc841.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/ambilWarna/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="930c1bf85b6486377674916df519e916817271bb">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/classes-c5a3686d0aeed0c94452375cf2a06e50e7d6ae0f.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/libs/pdfparse.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a73e32b031244de43af228ee69a3a1c28011c62c">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/pdfparse-58e0f40950f959d08c4e702733a2a3856aac86b7.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/superToasts/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="496650919f629c56fe9224f6b2ef8f7e536171d9">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/classes-21a4c82afb362b29b48a11b54505296ab66fc7a1.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/support-v4-19.1.0-754b12d6587d3ad95588ecc605da78eef095c7d9.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/libs/nanohttpd-2.0.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c3d42a4f9a2203a2f31cbe5a303620db1593b952">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/nanohttpd-2.0.5-3b4a964fe978a7d6103b75faada1b4b285db54aa.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/libs/LingvoIntegration_2.5.2.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1f7b7852ec6e7567e6096d8ac7c14908c3047500">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/LingvoIntegration_2.5.2.12-67d383a893aecadbcd03bfd1c6d3d5d222fbedda.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/libs/open-dictionary-api-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c4817fa5e7ad1f4fc0fcf4d2d81025356ea1b1b3">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/open-dictionary-api-1.2.1-db6f0dc104d3ff1fc99a5c9f18b4f52d2909cd1c.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0540aca05b0f7c30b661ada9105a2f6c12771cfa">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/classes-42574d9d62292aefbe113d7d77fcd7642f098981.jar" />
+    </item>
+    <item
+        jar="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/libs/httpmime-4.2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="36f95a7708086636806d7ed3e64f010855742bd2">
+        <dex dex="/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/pre-dexed/debug/httpmime-4.2.5-d3dd6ba84b5d18923c920275c06f5b9a9579b1ea.jar" />
+    </item>
+
+</items>

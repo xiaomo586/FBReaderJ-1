@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2012 Hai Bison
+
+    See the file LICENSE at the root directory of this project for copying
+    permission.
+-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/afc_button_location_dark_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/afc_button_location_dark_pressed" android:state_selected="true"/>
+    <item android:drawable="@drawable/afc_button_location_dark_pressed" android:state_focused="true"/>
+    
+</selector><!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/drawable/afc_selector_button_location_dark.xml --><!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/code/unspecified/res/drawable/afc_selector_button_location_dark.xml -->

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+	android:label="@string/empty_string"
+/>
+<!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/res/xml/searchable.xml -->

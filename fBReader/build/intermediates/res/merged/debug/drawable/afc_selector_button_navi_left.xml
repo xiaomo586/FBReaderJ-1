@@ -12,4 +12,4 @@
     <item android:drawable="@drawable/afc_button_navi_left_disabled" android:state_enabled="false"/> <!-- enabled -->
     <item android:drawable="@drawable/afc_button_navi_left"/> <!-- default -->
 
-</selector><!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/drawable/afc_selector_button_navi_left.xml --><!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/code/unspecified/res/drawable/afc_selector_button_navi_left.xml -->
+</selector><!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/drawable/afc_selector_button_navi_left.xml --><!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/build/intermediates/exploded-aar/FBReaderJ-1/code/unspecified/res/drawable/afc_selector_button_navi_left.xml -->

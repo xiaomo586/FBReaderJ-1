@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/code/unspecified/res/values-ldpi/values-ldpi.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/build/intermediates/exploded-aar/FBReaderJ-1/code/unspecified/res/values-ldpi/values-ldpi.xml -->
     <eat-comment/>
     <dimen name="afc_button_navigators_min_height">24px</dimen>
     <dimen name="afc_button_ok_saveas_size">24px</dimen>

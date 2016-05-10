@@ -192,6 +192,7 @@ int string afc_title_save_as 0x7f040033
 int string afc_title_size 0x7f040034
 int string afc_title_sort_by 0x7f040035
 int string afc_yesterday 0x7f040036
+int string no 0x7f040041
 int style afc_button_create_folder 0x7f060001
 int style afc_button_folders_view 0x7f060002
 int style afc_button_location 0x7f060000

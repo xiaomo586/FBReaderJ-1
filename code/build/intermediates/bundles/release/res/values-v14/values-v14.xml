@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values-v14/styles.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values-v14/styles.xml -->
     <eat-comment/>
     <style name="afc_button_location" parent="@android:style/Widget.DeviceDefault.TextView">
         <item name="android:textColor">#ffffff</item>

@@ -1,743 +1,824 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:2:1-387:12
-	package
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:4:3-49
-		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml
-	android:versionName
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:6:3-31
-	android:versionCode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:5:3-32
-		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:2:1-711:12
 	xmlns:android
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:3:3-61
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:3:11-69
+	package
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:2:11-57
+		INJECTED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml
+		INJECTED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:6:11-39
+	android:versionCode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:5:11-40
+		INJECTED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml
+		INJECTED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:7:3-33
-uses-sdk
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:9:2-13:4
-MERGED from [FBReaderJ_master:code:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/code/unspecified/AndroidManifest.xml:13:5-15:41
-MERGED from [FBReaderJ_master:library:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/library/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [FBReaderJ_master:superToasts:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/superToasts/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [FBReaderJ_master:ambilWarna:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/ambilWarna/unspecified/AndroidManifest.xml:7:5-9:41
-	android:maxSdkVersion
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:11:4-30
-	android:targetSdkVersion
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:12:4-32
-		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml
-	android:minSdkVersion
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:10:4-29
-		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml
-		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:4:11-41
 supports-screens
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:14:2-161
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:8:5-13:39
 	android:largeScreens
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:14:77-104
-	android:smallScreens
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:14:20-47
-	android:normalScreens
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:14:48-76
-	android:xlargeScreens
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:14:105-133
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:10:9-36
 	android:anyDensity
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:14:134-159
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:9:9-34
+	android:normalScreens
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:13:9-37
+	android:smallScreens
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:12:9-36
 uses-permission#android.permission.INTERNET
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:15:2-63
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:15:5-66
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:15:19-61
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:15:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:16:2-64
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:16:5-67
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:16:19-62
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:16:22-65
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:17:2-76
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:17:19-74
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:17:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:18:2-77
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:18:5-80
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:18:19-75
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:18:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:19:2-75
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:19:19-73
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:19:22-76
 application
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:20:2-386:16
-MERGED from [FBReaderJ_master:superToasts:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/superToasts/unspecified/AndroidManifest.xml:11:5-20
-MERGED from [FBReaderJ_master:ambilWarna:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/ambilWarna/unspecified/AndroidManifest.xml:11:5-12:19
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:22:5-709:19
+MERGED from [org.xutils:xutils:3.3.34] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\org.xutils\xutils\3.3.34\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [FBReaderJ-1:superToasts:unspecified] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\FBReaderJ-1\superToasts\unspecified\AndroidManifest.xml:11:5-20
+MERGED from [FBReaderJ-1:ambilWarna:unspecified] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\FBReaderJ-1\ambilWarna\unspecified\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:23.0.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\design\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:23.0.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [FBReaderJ-1:refresh:unspecified] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\FBReaderJ-1\refresh\unspecified\AndroidManifest.xml:11:5-20
 	android:label
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:24:3-35
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:25:9-41
 	android:icon
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:22:3-36
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:24:9-42
+	android:theme
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:23:9-48
 	android:logo
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:23:3-39
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:21:3-71
-activity#org.geometerplus.android.fbreader.error.BookReadingErrorActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:26:3-32:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:26:132-156
-	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:26:157-218
-	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:26:93-131
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:26:13-92
-intent-filter#android.fbreader.action.ERROR+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:27:4-31:20
-action#android.fbreader.action.ERROR
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:28:5-59
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:28:13-57
-category#android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:29:5-63
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:29:15-61
-data
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:30:5-50
-	android:scheme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:30:11-48
-activity#org.geometerplus.zlibrary.ui.android.error.BugReportActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:33:3-238
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:33:125-149
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:26:9-45
+activity#mydemo.MainActivity
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:28:9-39:20
 	android:label
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:33:53-83
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:33:212-236
-	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:33:150-211
-	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:33:84-124
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:33:13-52
-activity#org.geometerplus.android.fbreader.crash.FixBooksDirectoryActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:34:3-40:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:34:133-157
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:34:220-244
-	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:34:158-219
-	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:34:94-132
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:34:13-93
-intent-filter#android.fbreader.action.CRASH+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:35:4-39:20
-action#android.fbreader.action.CRASH
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:36:5-59
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:36:13-57
-activity#org.geometerplus.android.fbreader.crash.MissingNativeLibraryActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:41:3-52:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:41:136-160
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:41:223-247
-	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:41:161-222
-	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:41:97-135
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:41:13-96
-service#org.geometerplus.android.fbreader.api.ApiService
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:53:3-58:13
-	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:53:76-107
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:53:12-75
-intent-filter#android.fbreader.action.API+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:54:4-57:20
-action#android.fbreader.action.API
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:55:5-57
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:55:13-55
-activity#org.geometerplus.android.fbreader.FBReader
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:59:3-160:14
-	android:label
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:63:4-36
-	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:61:4-35
-	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:65:4-65
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:31:13-45
 	android:icon
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:62:4-37
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:30:13-46
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:64:4-44
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:33:13-44
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:60:4-61
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:29:13-47
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:32:13-44
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:67:4-70:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:68:5-56
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:35:17-68
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:68:13-54
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:69:5-64
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:37:17-76
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:69:15-62
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:37:27-74
+activity#testscroll.Main1Activity
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:40:9-42:46
+	android:theme
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:41:13-52
+activity#testscroll.activity.FileActivity
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:43:9-45:46
+	android:theme
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:44:13-60
+activity#org.geometerplus.android.fbreader.error.BookReadingErrorActivity
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:46:9-58:20
+	android:configChanges
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:48:13-74
+	android:theme
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:50:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:47:13-92
+intent-filter#android.fbreader.action.ERROR+android.intent.category.DEFAULT
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:51:13-57:29
+action#android.fbreader.action.ERROR
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:52:17-71
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:52:25-69
+category#android.intent.category.DEFAULT
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:54:17-75
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:54:27-73
+data
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:56:17-62
+	android:scheme
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:56:23-60
+activity#org.geometerplus.zlibrary.ui.android.error.BugReportActivity
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:59:9-65:55
+	android:label
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:63:13-43
+	android:configChanges
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:61:13-74
+	android:theme
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:65:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:64:13-37
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:60:13-52
+activity#org.geometerplus.android.fbreader.crash.FixBooksDirectoryActivity
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:66:9-79:20
+	android:configChanges
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:68:13-74
+	android:theme
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:71:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:70:13-37
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:67:13-93
+intent-filter#android.fbreader.action.CRASH+android.intent.category.DEFAULT
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:72:13-78:29
+action#android.fbreader.action.CRASH
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:73:17-71
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:73:25-69
+activity#org.geometerplus.android.fbreader.crash.MissingNativeLibraryActivity
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:80:9-100:20
+	android:configChanges
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:82:13-74
+	android:theme
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:85:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:84:13-37
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:81:13-96
+service#org.geometerplus.android.fbreader.api.ApiService
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:102:9-110:19
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:103:13-76
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:104:13-44
+intent-filter#android.fbreader.action.API+android.intent.category.DEFAULT
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:105:13-109:29
+action#android.fbreader.action.API
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:106:17-69
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:106:25-67
+activity#org.geometerplus.android.fbreader.FBReader
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:112:9-243:20
+	android:label
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:116:13-45
+	android:icon
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:115:13-46
+	android:configChanges
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:114:13-74
+	android:theme
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:118:13-53
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:113:13-70
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:117:13-44
 intent-filter#android.fbreader.action.VIEW+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:71:4-74:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:127:13-131:29
 action#android.fbreader.action.VIEW
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:72:5-58
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:128:17-70
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:72:13-56
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:128:25-68
 intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:80:4-84:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:139:13-145:29
 action#android.intent.action.VIEW
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:81:5-56
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:140:17-68
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:81:13-54
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:140:25-66
 intent-filter#android.fbreader.action.PLUGIN+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:85:4-88:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:146:13-150:29
 action#android.fbreader.action.PLUGIN
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:86:5-60
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:147:17-72
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:86:13-58
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:147:25-70
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:128:4-147:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:201:13-224:29
 category#android.intent.category.BROWSABLE
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:131:5-65
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:205:17-77
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:131:15-63
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:205:27-75
 intent-filter#android.intent.action.SEARCH
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:148:4-150:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:225:13-227:29
 action#android.intent.action.SEARCH
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:149:5-58
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:226:17-70
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:149:13-56
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:226:25-68
 meta-data#android.app.searchable
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:151:4-89
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:229:13-231:53
 	android:resource
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:151:53-87
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:231:17-51
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:151:15-52
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:230:17-54
 intent-filter#android.fbreader.action.CLOSE+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:152:4-155:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:233:13-237:29
 action#android.fbreader.action.CLOSE
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:153:5-59
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:234:17-71
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:153:13-57
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:234:25-69
 intent-filter#android.fbreader.action.PLUGIN_CRASH+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:156:4-159:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:238:13-242:29
 action#android.fbreader.action.PLUGIN_CRASH
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:157:5-66
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:239:17-78
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:157:13-64
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:239:25-76
 activity#org.geometerplus.android.fbreader.dict.DictionaryNotInstalledActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:161:3-166:5
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:165:4-28
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:244:9-248:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:164:4-65
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:246:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:163:4-42
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:248:13-51
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:247:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:162:4-88
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:245:13-97
 activity#org.geometerplus.android.fbreader.CancelActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:167:3-172:14
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:249:9-258:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:167:116-177
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:251:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:167:77-115
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:252:13-51
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:167:13-76
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:250:13-76
 intent-filter#android.fbreader.action.CANCEL_MENU+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:168:4-171:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:253:13-257:29
 action#android.fbreader.action.CANCEL_MENU
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:169:5-65
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:254:17-77
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:169:13-63
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:254:25-75
 activity#org.geometerplus.android.fbreader.PluginListActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:173:3-183
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:259:9-262:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:173:120-181
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:261:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:173:81-119
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:262:13-51
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:173:13-80
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:260:13-80
 activity#org.geometerplus.android.fbreader.bookmark.BookmarksActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:175:3-184:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:175:121-149
-	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:175:89-120
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:263:9-282:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:175:203-264
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:265:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:175:150-202
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:268:13-65
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:267:13-41
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:175:13-88
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:264:13-88
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:266:13-44
 intent-filter#android.fbreader.action.BOOKMARKS+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:180:4-183:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:277:13-281:29
 action#android.fbreader.action.BOOKMARKS
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:181:5-63
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:278:17-75
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:181:13-61
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:278:25-73
 activity#org.geometerplus.android.fbreader.bookmark.EditBookmarkActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:185:3-190:14
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:283:9-292:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:185:131-192
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:285:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:185:92-130
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:286:13-51
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:185:13-91
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:284:13-91
 intent-filter#android.fbreader.action.EDIT_BOOKMARK+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:186:4-189:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:287:13-291:29
 action#android.fbreader.action.EDIT_BOOKMARK
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:187:5-67
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:288:17-79
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:187:13-65
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:288:25-77
 activity#org.geometerplus.android.fbreader.bookmark.EditStyleActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:191:3-196:14
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:293:9-302:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:191:128-189
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:295:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:191:89-127
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:296:13-51
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:191:13-88
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:294:13-88
 intent-filter#android.fbreader.action.EDIT_STYLES+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:192:4-195:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:297:13-301:29
 action#android.fbreader.action.EDIT_STYLES
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:193:5-65
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:298:17-77
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:193:13-63
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:298:25-75
 activity#org.geometerplus.android.fbreader.image.ImageViewActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:198:3-219
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:198:86-114
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:303:9-307:55
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:198:156-217
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:305:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:198:115-155
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:307:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:306:13-41
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:198:13-85
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:304:13-85
 service#org.geometerplus.android.fbreader.libraryService.LibraryService
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:199:3-203:13
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:309:9-316:19
 	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:199:123-156
-	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:199:91-122
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:312:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:199:12-90
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:310:13-91
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:311:13-44
 intent-filter#android.fbreader.action.LIBRARY_SERVICE
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:200:4-202:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:313:13-315:29
 action#android.fbreader.action.LIBRARY_SERVICE
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:201:5-69
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:314:17-81
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:201:13-67
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:314:25-79
 service#org.geometerplus.android.fbreader.config.ConfigService
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:204:3-208:13
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:317:9-324:19
 	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:204:114-146
-	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:204:82-113
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:320:13-45
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:204:12-81
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:318:13-82
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:319:13-44
 intent-filter#android.fbreader.action.CONFIG_SERVICE
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:205:4-207:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:321:13-323:29
 action#android.fbreader.action.CONFIG_SERVICE
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:206:5-68
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:322:17-80
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:206:13-66
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:322:25-78
 service#org.geometerplus.android.fbreader.sync.SyncService
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:209:3-216:13
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:325:9-335:19
 	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:209:110-141
-	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:209:78-109
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:328:13-44
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:209:12-77
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:326:13-78
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:327:13-44
 intent-filter#android.fbreader.action.sync.START
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:210:4-212:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:329:13-331:29
 action#android.fbreader.action.sync.START
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:211:5-64
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:330:17-76
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:211:13-62
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:330:25-74
 intent-filter#android.fbreader.action.sync.QUICK_SYNC
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:213:4-215:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:332:13-334:29
 action#android.fbreader.action.sync.QUICK_SYNC
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:214:5-69
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:333:17-81
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:214:13-67
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:333:25-79
 activity#org.geometerplus.android.fbreader.library.BookInfoActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:217:3-227:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:220:4-30
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:337:9-347:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:221:4-65
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:339:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:219:4-44
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:341:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:340:13-39
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:218:4-77
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:338:13-86
 intent-filter#android.fbreader.action.BOOK_INFO+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:223:4-226:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:342:13-346:29
 action#android.fbreader.action.BOOK_INFO
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:224:5-63
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:343:17-75
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:224:13-61
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:343:25-73
 activity#org.geometerplus.android.fbreader.library.LibrarySearchActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:228:3-233:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:228:92-118
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:348:9-359:20
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:228:119-165
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:351:13-59
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:350:13-39
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:228:13-91
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:349:13-91
 activity#org.geometerplus.android.fbreader.library.LibraryActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:234:3-240:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:234:118-144
-	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:234:86-117
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:360:9-375:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:234:186-247
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:362:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:234:145-185
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:365:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:364:13-39
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:234:13-85
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:361:13-85
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:363:13-44
 meta-data#android.app.default_searchable
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:235:4-142
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:366:13-368:98
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:367:17-62
 	android:value
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:235:61-140
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:235:15-60
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:368:17-96
 intent-filter#android.fbreader.action.LIBRARY+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:236:4-239:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:370:13-374:29
 action#android.fbreader.action.LIBRARY
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:237:5-61
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:371:17-73
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:237:13-59
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:371:25-71
 activity#org.geometerplus.android.fbreader.TOCActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:241:3-178
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:376:9-379:55
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:241:115-176
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:378:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:241:74-114
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:379:13-53
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:241:13-73
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:377:13-73
 activity#org.geometerplus.android.fbreader.preferences.PreferenceActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:242:3-252:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:242:196-226
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:380:9-397:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:242:134-195
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:382:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:242:93-133
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:384:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:383:13-43
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:242:13-92
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:381:13-92
 intent-filter#android.fbreader.action.PREFERENCES+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:248:4-251:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:392:13-396:29
 action#android.fbreader.action.PREFERENCES
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:249:5-65
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:393:17-77
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:249:13-63
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:393:25-75
 activity#org.geometerplus.android.fbreader.preferences.EditBookInfoActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:253:3-226
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:253:95-121
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:398:9-402:55
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:253:163-224
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:400:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:253:122-162
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:402:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:401:13-39
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:253:13-94
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:399:13-94
 activity#org.geometerplus.android.fbreader.sync.MissingBookActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:254:3-223
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:254:87-120
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:403:9-407:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:254:160-221
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:405:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:254:121-159
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:407:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:406:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:254:13-86
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:404:13-86
 activity#org.geometerplus.android.fbreader.network.BookDownloader
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:255:3-309:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:255:85-118
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:408:9-489:20
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:255:119-165
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:411:13-59
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:410:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:255:13-84
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:409:13-84
 service#org.geometerplus.android.fbreader.network.BookDownloaderService
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:310:3-183
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:491:9-495:48
 	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:310:123-156
-	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:310:91-122
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:495:13-46
 	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:310:157-181
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:493:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:310:12-90
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:492:13-91
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:494:13-44
 activity#org.geometerplus.android.fbreader.network.NetworkSearchActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:311:3-316:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:311:92-125
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:497:9-508:20
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:311:126-172
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:500:13-59
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:499:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:311:13-91
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:498:13-91
 activity#org.geometerplus.android.fbreader.network.auth.WebAuthorisationScreen
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:317:3-261
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:317:98-131
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:317:235-259
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:509:9-514:55
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:317:173-234
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:511:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:317:132-172
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:514:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:513:13-46
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:512:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:317:13-97
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:510:13-97
 activity#org.geometerplus.android.fbreader.network.NetworkLibraryPrimaryActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:318:3-330:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:318:100-133
-	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:318:134-165
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:515:9-542:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:318:207-268
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:517:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:318:166-206
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:520:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:519:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:318:13-99
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:516:13-99
+	android:launchMode
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:518:13-44
 intent-filter#android.fbreader.action.OPEN_NETWORK_CATALOG+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:320:4-325:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:525:13-536:29
 action#android.fbreader.action.OPEN_NETWORK_CATALOG
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:321:5-74
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:526:17-86
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:321:13-72
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:526:25-84
 intent-filter#android.fbreader.action.NETWORK_LIBRARY+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:326:4-329:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:537:13-541:29
 action#android.fbreader.action.NETWORK_LIBRARY
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:327:5-69
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:538:17-81
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:327:13-67
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:538:25-79
 activity#org.geometerplus.android.fbreader.network.NetworkLibrarySecondaryActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:331:3-240
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:331:102-135
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:543:9-547:55
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:331:177-238
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:545:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:331:136-176
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:547:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:546:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:331:13-101
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:544:13-101
 activity#org.geometerplus.android.fbreader.network.AuthenticationActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:332:3-229
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:332:93-126
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:548:9-552:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:332:166-227
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:550:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:332:127-165
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:552:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:551:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:332:13-92
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:549:13-92
 activity#org.geometerplus.android.fbreader.network.BuyBooksActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:333:3-223
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:333:87-120
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:553:9-557:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:333:160-221
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:555:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:333:121-159
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:557:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:556:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:333:13-86
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:554:13-86
 activity#org.geometerplus.android.fbreader.network.AddCatalogMenuActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:334:3-229
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:334:93-126
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:558:9-562:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:334:166-227
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:560:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:334:127-165
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:562:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:561:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:334:13-92
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:559:13-92
 activity#org.geometerplus.android.fbreader.network.AddCustomCatalogActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:335:3-357:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:335:95-128
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:563:9-606:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:335:168-229
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:565:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:335:129-167
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:567:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:566:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:335:13-94
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:564:13-94
 intent-filter#android.fbreader.action.ADD_OPDS_CATALOG+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:336:4-340:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:568:13-577:29
 action#android.fbreader.action.ADD_OPDS_CATALOG
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:337:5-70
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:569:17-82
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:337:13-68
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:569:25-80
 intent-filter#android.fbreader.action.ADD_OPDS_CATALOG_URL+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:347:4-351:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:588:13-596:29
 action#android.fbreader.action.ADD_OPDS_CATALOG_URL
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:348:5-74
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:589:17-86
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:348:13-72
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:589:25-84
 activity#org.geometerplus.android.fbreader.network.AuthorisationMenuActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:358:3-232
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:358:96-129
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:607:9-611:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:358:169-230
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:609:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:358:130-168
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:611:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:610:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:358:13-95
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:608:13-95
 activity#org.geometerplus.android.fbreader.network.litres.UserRegistrationActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:359:3-238
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:359:102-135
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:612:9-616:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:359:175-236
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:614:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:359:136-174
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:616:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:615:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:359:13-101
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:613:13-101
 activity#org.geometerplus.android.fbreader.network.litres.AutoRegistrationActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:360:3-238
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:360:102-135
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:617:9-621:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:360:175-236
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:619:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:360:136-174
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:621:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:620:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:360:13-101
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:618:13-101
 activity#org.geometerplus.android.fbreader.network.TopupMenuActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:361:3-224
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:361:88-121
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:622:9-626:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:361:161-222
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:624:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:361:122-160
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:626:13-51
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:625:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:361:13-87
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:623:13-87
 activity#org.geometerplus.android.fbreader.network.NetworkBookInfoActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:362:3-368:14
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:362:94-127
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:627:9-641:20
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:362:169-230
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:629:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:362:128-168
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:631:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:630:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:362:13-93
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:628:13-93
 activity#org.geometerplus.android.fbreader.network.CatalogManagerActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:369:3-169
-	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:369:93-126
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:642:9-645:55
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:369:127-167
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:645:13-53
+	android:process
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:644:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:369:13-92
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:643:13-92
 receiver#org.geometerplus.android.fbreader.network.ListenerCallback
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:370:3-375:14
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:647:9-655:20
 	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:370:87-120
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:649:13-46
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:370:13-86
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:648:13-86
 intent-filter#android.fbreader.action.network.SIGNIN+android.intent.category.DEFAULT
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:371:4-374:20
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:650:13-654:29
 action#android.fbreader.action.network.SIGNIN
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:372:5-68
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:651:17-80
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:372:13-66
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:651:25-78
 activity#org.geometerplus.android.fbreader.tips.TipsActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:376:3-182
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:657:9-660:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:376:119-180
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:659:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:376:80-118
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:660:13-51
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:376:13-79
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:658:13-79
 activity#com.paragon.dictionary.fbreader.OpenDictionaryActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:377:3-190
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:661:9-664:58
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:377:127-188
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:663:13-74
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:377:83-126
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:664:13-56
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:377:13-82
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:662:13-82
 service#org.geometerplus.android.fbreader.httpd.DataService
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:378:3-168
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:666:9-670:45
 	android:process
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:378:111-141
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:670:13-43
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:668:13-37
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:667:13-79
 	android:launchMode
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:378:79-110
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:378:142-166
-	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:378:12-78
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:669:13-44
 service#group.pals.android.lib.ui.filechooser.services.LocalFileProvider
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:379:3-118
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:671:9-673:39
 	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:379:92-116
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:673:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:379:12-91
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:672:13-92
 activity#group.pals.android.lib.ui.filechooser.FileChooserActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:380:3-222
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:380:196-220
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:675:9-679:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:380:86-156
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:677:13-83
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:380:157-195
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:679:13-51
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:678:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:380:13-85
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:676:13-85
 activity#org.geometerplus.android.fbreader.preferences.background.Chooser
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:381:3-229
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:381:203-227
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:680:9-684:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:381:93-163
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:682:13-83
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:381:164-202
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:684:13-51
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:683:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:381:13-92
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:681:13-92
 activity#org.geometerplus.android.fbreader.preferences.background.PredefinedImages
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:382:3-238
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:382:212-236
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:685:9-689:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:382:102-172
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:687:13-83
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:382:173-211
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:689:13-51
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:688:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:382:13-101
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:686:13-101
 activity#org.geometerplus.android.util.FolderListDialogActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:383:3-219
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:383:193-217
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:690:9-694:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:383:83-153
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:692:13-83
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:383:154-192
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:694:13-51
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:693:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:383:13-82
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:691:13-82
 activity#org.geometerplus.android.util.EditTagsDialogActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:384:3-217
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:384:191-215
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:695:9-699:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:384:81-151
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:697:13-83
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:384:152-190
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:699:13-51
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:698:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:384:13-80
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:696:13-80
 activity#org.geometerplus.android.util.EditAuthorsDialogActivity
-ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:385:3-220
-	android:exported
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:385:194-218
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:700:9-704:53
 	android:configChanges
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:385:84-154
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:702:13-83
 	android:theme
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:385:155-193
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:704:13-51
+	android:exported
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:703:13-37
 	android:name
-		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/AndroidManifest.xml:385:13-83
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:701:13-83
+activity#mydemo.activity.HistoryActivity
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:705:9-706:20
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:705:19-65
+activity#mydemo.activity.ShopBookActivity
+ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:707:9-708:20
+	android:name
+		ADDED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml:707:19-66
+uses-sdk
+INJECTED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [org.xutils:xutils:3.3.34] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\org.xutils\xutils\3.3.34\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [FBReaderJ-1:code:unspecified] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\FBReaderJ-1\code\unspecified\AndroidManifest.xml:13:5-15:41
+MERGED from [FBReaderJ-1:library:unspecified] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\FBReaderJ-1\library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [FBReaderJ-1:superToasts:unspecified] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\FBReaderJ-1\superToasts\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [FBReaderJ-1:ambilWarna:unspecified] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\FBReaderJ-1\ambilWarna\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.0.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\design\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:23.0.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [FBReaderJ-1:refresh:unspecified] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\FBReaderJ-1\refresh\unspecified\AndroidManifest.xml:7:5-9:40
+	android:targetSdkVersion
+		INJECTED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml
+		INJECTED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml
+		INJECTED from E:\android\FBReader\fb2\FBReaderJ-1\fBReader\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] E:\android\FBReader\fb2\FBReaderJ-1\fBReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/res/values-v14/styles.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v14/values-v14.xml -->
+    <eat-comment/>
+    <style name="Base.TextAppearance.AppCompat.Button">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/src/main/res/values-v14/styles.xml -->
     <eat-comment/>
     <style name="FBReader.Activity" parent="android:Theme.DeviceDefault">
 	</style>
@@ -8,7 +15,30 @@
 	</style>
     <style name="FBReader.Dialog" parent="android:Theme.DeviceDefault.Dialog">
 	</style>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/build/intermediates/exploded-aar/FBReaderJ_master/code/unspecified/res/values-v14/values-v14.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v14/values-v14.xml -->
+    <eat-comment/>
+    <style name="Platform.AppCompat" parent="Platform.V14.AppCompat"/>
+    <style name="Platform.AppCompat.Light" parent="Platform.V14.AppCompat.Light"/>
+    <style name="Platform.V14.AppCompat" parent="Platform.V11.AppCompat">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="Platform.V14.AppCompat.Light" parent="Platform.V11.AppCompat.Light">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.StatusBar.EventContent.Info"/>
+    <style name="TextAppearance.StatusBar.EventContent.Line2">
+        <item name="android:textSize">@dimen/notification_subtext_size</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Time"/>
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/build/intermediates/exploded-aar/FBReaderJ-1/code/unspecified/res/values-v14/values-v14.xml -->
     <eat-comment/>
     <style name="afc_button_location" parent="@android:style/Widget.DeviceDefault.TextView">
         <item name="android:textColor">#ffffff</item>

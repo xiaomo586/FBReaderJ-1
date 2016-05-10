@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/superToasts/src/main/res/values-v19/dimen.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/superToasts/src/main/res/values-v19/dimen.xml -->
     <eat-comment/>
     <dimen name="buttontoast_x_padding">24dp</dimen>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/superToasts/src/main/res/values-v19/styles.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/superToasts/src/main/res/values-v19/styles.xml -->
     <eat-comment/>
     <style name="DefaultRootLayout">
         <item name="android:background">@drawable/background_kitkat_gray</item>

@@ -3,4 +3,4 @@
 	<item android:state_pressed="true" android:drawable="@drawable/ic_share_pressed" />
 	<item android:drawable="@drawable/ic_share_white"/>
 </selector>
-<!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/res/drawable/popup_share.xml -->
+<!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/src/main/res/drawable/popup_share.xml -->

@@ -70,4 +70,4 @@
 		<include layout="@layout/ok_cancel_buttons" android:id="@+id/authentication_buttons" />
 	</LinearLayout>
 </ScrollView>
-<!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/res/layout/authentication.xml -->
+<!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/src/main/res/layout/authentication.xml -->

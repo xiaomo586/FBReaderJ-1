@@ -48,4 +48,4 @@
 		android:layout_height="fill_parent" android:id="@+id/bottom_row"
 	/>
 </TableLayout>
-<!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/res/layout/opendictionary_flyout.xml -->
+<!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/src/main/res/layout/opendictionary_flyout.xml -->

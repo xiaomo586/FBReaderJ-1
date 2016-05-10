@@ -11,4 +11,4 @@
     <item android:drawable="@drawable/afc_button_ok_saveas_pressed" android:state_pressed="true"/> <!-- pressed -->
     <item android:drawable="@drawable/afc_button_ok_saveas"/> <!-- default -->
 
-</selector><!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/drawable/afc_selector_button_ok_saveas.xml -->
+</selector><!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/drawable/afc_selector_button_ok_saveas.xml -->

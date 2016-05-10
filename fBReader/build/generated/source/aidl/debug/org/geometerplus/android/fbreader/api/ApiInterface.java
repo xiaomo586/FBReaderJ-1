@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/aidl/org/geometerplus/android/fbreader/api/ApiInterface.aidl
+ * Original file: E:\\android\\FBReader\\fb2\\FBReaderJ-1\\fBReader\\src\\main\\aidl\\org\\geometerplus\\android\\fbreader\\api\\ApiInterface.aidl
  */
 package org.geometerplus.android.fbreader.api;
 public interface ApiInterface extends android.os.IInterface

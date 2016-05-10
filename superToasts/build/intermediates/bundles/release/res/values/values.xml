@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/superToasts/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/superToasts/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="black">#000000</color>
     <color name="dark_gray">#333333</color>
     <color name="light_gray">#AFFFFFFF</color>
     <color name="white">#FFFFFF</color>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/superToasts/src/main/res/values/dimen.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/superToasts/src/main/res/values/dimen.xml -->
     <eat-comment/>
     <dimen name="buttontoast_hover">24dp</dimen>
     <dimen name="buttontoast_x_padding">12dp</dimen>
     <dimen name="cardtoast_margin">4dp</dimen>
     <dimen name="toast_hover">64dp</dimen>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/superToasts/src/main/res/values/styles.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/superToasts/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="DefaultRootLayout">
         <item name="android:background">@drawable/background_standard_gray</item>

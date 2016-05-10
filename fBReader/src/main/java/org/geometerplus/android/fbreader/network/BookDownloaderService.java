@@ -19,29 +19,41 @@
 
 package org.geometerplus.android.fbreader.network;
 
-import java.util.*;
-import java.io.*;
-
-import android.app.*;
+import android.app.Notification;
+import android.app.NotificationManager;
+import android.app.PendingIntent;
+import android.app.Service;
 import android.content.Intent;
 import android.net.Uri;
-import android.os.*;
+import android.os.Handler;
+import android.os.IBinder;
+import android.os.Message;
 import android.widget.RemoteViews;
 import android.widget.Toast;
-
-import org.geometerplus.zlibrary.core.network.*;
-import org.geometerplus.zlibrary.core.resources.ZLResource;
-import org.geometerplus.zlibrary.core.util.MimeType;
-import org.geometerplus.zlibrary.ui.android.R;
-import org.geometerplus.zlibrary.ui.android.network.SQLiteCookieDatabase;
-
-import org.geometerplus.fbreader.network.urlInfo.UrlInfo;
-import org.geometerplus.fbreader.network.urlInfo.BookUrlInfo;
 
 import org.geometerplus.android.fbreader.FBReader;
 import org.geometerplus.android.fbreader.NotificationUtil;
 import org.geometerplus.android.fbreader.libraryService.BookCollectionShadow;
 import org.geometerplus.android.fbreader.network.auth.ServiceNetworkContext;
+import org.geometerplus.fbreader.network.urlInfo.BookUrlInfo;
+import org.geometerplus.fbreader.network.urlInfo.UrlInfo;
+import org.geometerplus.zlibrary.core.network.ZLNetworkContext;
+import org.geometerplus.zlibrary.core.network.ZLNetworkException;
+import org.geometerplus.zlibrary.core.network.ZLNetworkRequest;
+import org.geometerplus.zlibrary.core.resources.ZLResource;
+import org.geometerplus.zlibrary.core.util.MimeType;
+import org.geometerplus.zlibrary.ui.android.R;
+import org.geometerplus.zlibrary.ui.android.network.SQLiteCookieDatabase;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.Set;
 
 public class BookDownloaderService extends Service {
 	private final ZLNetworkContext myNetworkContext = new ServiceNetworkContext(this);
@@ -226,7 +238,7 @@ public class BookDownloaderService extends Service {
 		notification.flags |= Notification.FLAG_AUTO_CANCEL;
 		final Intent intent = success ? getFBReaderIntent(file) : new Intent();
 		final PendingIntent contentIntent = PendingIntent.getActivity(this, 0, intent, 0);
-		notification.setLatestEventInfo(getApplicationContext(), title, contentText, contentIntent);
+		//notification.setLatestEventInfo(getApplicationContext(), title, contentText, contentIntent);
 		return notification;
 	}
 

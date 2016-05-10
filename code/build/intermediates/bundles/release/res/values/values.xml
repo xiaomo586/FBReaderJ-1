@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values/preferences.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values/preferences.xml -->
     <eat-comment/>
     <bool name="afc_pkey_display_remember_last_location_def">true</bool>
     <bool name="afc_pkey_display_show_time_for_old_days_def">false</bool>
     <bool name="afc_pkey_display_show_time_for_old_days_this_year_def">false</bool>
     <bool name="afc_pkey_display_sort_ascending_def">true</bool>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="afc_border_line_dark">#33B5E5</color>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values/dimens.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="afc_10dp">10dp</dimen>
     <dimen name="afc_15dp">15dp</dimen>
@@ -20,11 +20,11 @@
     <dimen name="afc_context_menu_item_padding_left">18sp</dimen>
     <dimen name="afc_single_button_min_width">192sp</dimen>
     <dimen name="afc_viewgroup_button_locations_bottom_divider_height">1dp</dimen>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values/preferences.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values/preferences.xml -->
     <eat-comment/>
     <integer name="afc_pkey_display_sort_type_def">0</integer>
     <integer name="afc_pkey_display_view_type_def">0</integer>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values/strings.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="afc_cmd_advanced_selection_all">All</string>
     <string name="afc_cmd_advanced_selection_invert">Invert selection</string>
@@ -56,7 +56,7 @@
     <string name="afc_msg_empty">…empty</string>
     <string name="afc_msg_filename_is_empty">Filename is empty</string>
     <string name="afc_msg_loading">Loading…</string>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values/preferences.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values/preferences.xml -->
     <eat-comment/>
     <string name="afc_pkey_display_last_location">afc.display.last_location</string>
     <string name="afc_pkey_display_remember_last_location">afc.display.remember_last_location</string>
@@ -65,7 +65,7 @@
     <string name="afc_pkey_display_sort_ascending">afc.display.sort_ascending</string>
     <string name="afc_pkey_display_sort_type">afc.display.sort_type</string>
     <string name="afc_pkey_display_view_type">afc.display.view_type</string>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values/strings.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="afc_pmsg_cannot_access_dir">Can not access \"%1$s\"</string>
     <string name="afc_pmsg_cannot_create_folder">Can not create folder \"%1$s\"</string>
@@ -95,7 +95,8 @@
     <string name="afc_title_size">Size</string>
     <string name="afc_title_sort_by">Sort by…</string>
     <string name="afc_yesterday">Yesterday</string>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values/styles.xml -->
+    <string name="no">没有权限</string>
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="afc_button_create_folder" parent="afc_button_navi_left">
         <item name="android:src">@drawable/afc_selector_button_create_folder</item>

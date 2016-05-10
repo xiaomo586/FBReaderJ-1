@@ -2,4 +2,26 @@
 <resources>
   <item name="primary" type="color">#444444</item>
   <item name="primary_dark" type="color">#222222</item>
+
+
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+
+  <!-- 整体文字颜色!-->
+  <color name="textColAll">#000000</color>
+
+  <!-- 底部选中时的颜色!-->
+  <color name="gree">#11cd6e</color>
+  <!-- 导航栏背景颜色!-->
+  <color name="blo">#bfbfbf</color>
+  <color name="bloo">#88bfbfbf</color>
+  <!--整体背景颜色 !-->
+  <color name="background">#f9f7f7</color>
+  <!-- 顶部 文字颜色 !-->
+  <color name="textCol">#3c5440</color>
+  <color name="top">#56abe4</color>
+
+  <!--geren!-->
+  <color name="bl">#cec8c8</color>
 </resources>

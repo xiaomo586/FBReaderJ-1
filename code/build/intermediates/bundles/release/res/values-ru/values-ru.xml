@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/code/src/main/res/values-ru/strings.xml -->
+    <!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/code/src/main/res/values-ru/strings.xml -->
     <eat-comment/>
     <string name="afc_cmd_advanced_selection_all">Все</string>
     <string name="afc_cmd_advanced_selection_invert">Инвертировать выделение</string>

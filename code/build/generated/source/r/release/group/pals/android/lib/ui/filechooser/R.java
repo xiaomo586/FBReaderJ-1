@@ -221,6 +221,7 @@ public final class R {
         public static int afc_title_size=0x7f040034;
         public static int afc_title_sort_by=0x7f040035;
         public static int afc_yesterday=0x7f040036;
+        public static int no=0x7f040041;
     }
     public static final class style {
         public static int afc_button_create_folder=0x7f060001;

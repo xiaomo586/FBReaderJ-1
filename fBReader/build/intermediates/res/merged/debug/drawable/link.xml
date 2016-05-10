@@ -4,4 +4,4 @@
     <item android:state_focused="true" android:drawable="@drawable/link_selected" />
     <item android:drawable="@drawable/link_default" />
 </selector>
-<!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/res/drawable/link.xml -->
+<!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/src/main/res/drawable/link.xml -->

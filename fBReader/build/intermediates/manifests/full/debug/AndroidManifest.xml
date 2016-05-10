@@ -6,9 +6,8 @@
     android:versionName="2.5.10" >
 
     <uses-sdk
-        android:maxSdkVersion="10"
-        android:minSdkVersion="8"
-        android:targetSdkVersion="19" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
 
     <supports-screens
         android:anyDensity="true"
@@ -23,11 +22,31 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
+    <!-- android:name="org.geometerplus.android.fbreader.FBReaderApplication" ! -->
     <application
-        android:name="org.geometerplus.android.fbreader.FBReaderApplication"
+        android:name="mydemo.app.XmApplication"
         android:icon="@drawable/fbreader"
         android:label="@string/app_name"
-        android:logo="@drawable/fbreader_bw" >
+        android:logo="@drawable/fbreader_bw"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="mydemo.MainActivity"
+            android:icon="@drawable/fbreader"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="testscroll.Main1Activity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="testscroll.activity.FileActivity"
+            android:theme="@style/AppTheme" />
         <activity
             android:name="org.geometerplus.android.fbreader.error.BookReadingErrorActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -101,11 +120,14 @@
             android:label="@string/app_name"
             android:launchMode="singleTask"
             android:theme="@style/FBReader.Activity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            <!--
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+			!
+            -->
             <intent-filter>
                 <action android:name="android.fbreader.action.VIEW" />
 
@@ -136,7 +158,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
 
                 <data
-                    android:host=""
+                    android:host="*"
                     android:scheme="file" />
                 <data android:pathPattern=".*\\.epub" />
                 <data android:pathPattern=".*\\.oeb" />
@@ -157,7 +179,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
 
                 <data
-                    android:host=""
+                    android:host="*"
                     android:mimeType="text/plain"
                     android:scheme="file" />
                 <data android:pathPattern=".*\\.epub" />
@@ -187,7 +209,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host=""
+                    android:host="*"
                     android:scheme="file" />
                 <data android:mimeType="application/epub+zip" />
                 <data android:mimeType="application/x-pilot-prc" />
@@ -684,6 +706,10 @@
             android:configChanges="orientation|screenSize|keyboard|keyboardHidden"
             android:exported="false"
             android:theme="@style/FBReader.Dialog" />
+        <activity android:name="mydemo.activity.HistoryActivity" >
+        </activity>
+        <activity android:name="mydemo.activity.ShopBookActivity" >
+        </activity>
     </application>
 
 </manifest>

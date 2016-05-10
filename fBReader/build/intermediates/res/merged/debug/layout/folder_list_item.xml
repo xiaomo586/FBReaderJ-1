@@ -22,4 +22,4 @@
 		android:layout_toLeftOf="@id/folder_list_item_remove"
 		android:textSize="16sp"/>
 </RelativeLayout>
-<!-- From: file:/Users/ahq/workspaces/android_studio_workspaces/FBReaderJ_master/fBReader/src/main/res/layout/folder_list_item.xml -->
+<!-- From: file:/E:/android/FBReader/fb2/FBReaderJ-1/fBReader/src/main/res/layout/folder_list_item.xml -->
